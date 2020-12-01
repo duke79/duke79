@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [ExJarvis](https://github.com/ExJarvis/ExJarvis)
 - 🌱 I’m currently learning `Sociology`
 - 👯 I’m looking to collaborate on `charity that I can afford` or `finding solutions for the problem of suffering`
