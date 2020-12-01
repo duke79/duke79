@@ -8,4 +8,4 @@
 - 📫 How to reach me: `pulkitsingh01@gmail.com`
 - ⚡ Fun fact: 
 --> Best time of my day is right on the verge of sleeping, neither awake nor asleep,
-    when train of coscious thoughts start to transition into dreams.
+    when train of coscious thoughts starts to transition into dreams.
