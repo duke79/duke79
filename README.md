@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [The Creator AI](https://www.github.com/The-Creator-AI)
+- 🔭 I’m currently working on [The Creator AI](https://github.com/The-Creator-AI/The-Creator-AI)
 - 🌱 I’m currently learning `Sociology`
 - 👯 I’m looking to collaborate on `charity that I can afford` or `finding solutions for the problem of suffering`
 - 💬 Ask me about `morality`
